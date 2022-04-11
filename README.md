@@ -8,3 +8,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo excepturi hic
 and....
 
 Inline `code` has `back-ticks around` it.
+----
+ <p>code<p>
+`ррр`
